@@ -1,0 +1,14 @@
+# Dados brutos
+data/raw/*.csv
+
+# Credenciais
+.env
+*.env
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Power BI
+*.pbix
